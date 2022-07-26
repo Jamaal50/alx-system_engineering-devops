@@ -1,6 +1,6 @@
 # System Engineering & Devops
 
-Module of **System engineering & devops**, carried out during **Full Stack Software Engineering program** at **[ALX School](https://www.alxafrica.com/)**.
+Module of **System engineering & devops**, carried out during **Full Stack Software Engineering program** at **[ALX Africa School](https://www.alxafrica.com/)**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
